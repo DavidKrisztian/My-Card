@@ -1,4 +1,3 @@
-# card1
+# card version 1.0
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/rdesigncode/pen/qBVXOMX](https://codepen.io/rdesigncode/pen/qBVXOMX).
 
